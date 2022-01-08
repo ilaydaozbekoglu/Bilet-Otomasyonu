@@ -1,0 +1,2 @@
+# Bilet-Otomasyonu
+Bilet otomasyon sistemi; sinema, tiyatro ve konser gibi etkinlik seçenekleri için insanların daha kolay bilet temin edebilmesini sağlayacaktır. Otomasyon, etkinliğin sahip olduğu müsait bilet bilgilerini ve fiyatlarını iş yerindeki çalışana sunarak müşterinin kendisi için uygun olan etkinliği tercih etmesini sağlayacaktır. Müşterinin seçmiş olduğu film, tiyatro oyunu ya da konserlerin isimleri, seansları, dolu ve boş koltuk bilgilerini otomasyonu kullanacak kişiye sunar.
